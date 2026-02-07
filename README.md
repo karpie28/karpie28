@@ -10,7 +10,7 @@ I build tools that help defenders stay ahead of emerging AI threats. Lead DevSec
 
 ## Speaking
 
-- **SCaLE 23x** — Southern California Linux Expo speaker
+- **[Red Teaming the Robot: Practical Open Source Security for LLMs](https://www.socallinuxexpo.org/scale/23x/presentations/red-teaming-robot-practical-open-source-security-llms)** — SCaLE 23x. Covers prompt injection, jailbreaking, model supply chain attacks, and hands-on defense with open-source tools like Garak and PyRIT.
 
 ## Certifications
 
