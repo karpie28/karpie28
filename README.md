@@ -10,6 +10,7 @@ I build tools that help defenders stay ahead of emerging AI threats. Lead DevSec
 
 ## Speaking
 
+- **[sudo grant me admin](https://www.meetup.com/southern-california-genai-meetup/events/312272415/)** — SoCal GenAI Meetup. Four real-world breaches covering supply chain attacks, infrastructure poisoning, and second-order prompt injections. Introduces Zero Trust protocols for AI agents.
 - **[Red Teaming the Robot: Practical Open Source Security for LLMs](https://www.socallinuxexpo.org/scale/23x/presentations/red-teaming-robot-practical-open-source-security-llms)** — SCaLE 23x. Covers prompt injection, jailbreaking, model supply chain attacks, and hands-on defense with open-source tools like Garak and PyRIT.
 
 ## Certifications
