@@ -19,7 +19,7 @@ CCSP | CKA | AWS | Wiz MVP
 
 ## Outside of code
 
-I ride bikes and raise money for the MS Society.
+I ride bikes and [raise money for the MS Society](https://events.nationalmssociety.org/participants/640208) through Bike MS: Bay to Bay.
 
 ## Get in touch
 
