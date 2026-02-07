@@ -10,7 +10,6 @@ I build tools that help defenders stay ahead of emerging AI threats. Lead DevSec
 
 ## Speaking
 
-- **DEFCON** — Upcoming talk on AI security
 - **SCaLE 23x** — Southern California Linux Expo speaker
 
 ## Certifications
