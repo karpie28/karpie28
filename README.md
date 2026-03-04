@@ -17,6 +17,10 @@ I build tools that help defenders stay ahead of emerging AI threats. Lead DevSec
 
 CCSP | CKA | AWS | Wiz MVP
 
+## Community
+
+**Judge** — [IrvineHacks 2026](https://www.linkedin.com/feed/update/urn:li:activity:7434799892167995392/) with Hack at UCI. 400+ hackers, a weekend of building, and some seriously impressive results — full-stack apps, AI integrations, and creative hardware hacks. If you're in tech and haven't judged or mentored at a hackathon, do it.
+
 ## Outside of code
 
 I ride bikes and [raise money for the MS Society](https://events.nationalmssociety.org/participants/640208) through Bike MS: Bay to Bay — $10k+ raised so far.
