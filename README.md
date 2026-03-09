@@ -4,8 +4,6 @@ I build tools that help defenders stay ahead of emerging AI threats. Lead DevSec
 
 ## What I'm working on
 
-**[ClawTrap](https://github.com/karpie28/clawtrap)** — A honeypot that mimics an AI assistant to capture LLM-specific attack vectors: prompt injection, jailbreaks, and tool abuse. Built with TypeScript and deployed on Fargate.
-
 **[Sundew](https://github.com/sundew-sh/sundew)** — An open-source honeypot that detects autonomous AI agents. Deploys realistic services with unique personas, then fingerprints and classifies agent behavior in real time. Built with Python and FastAPI.
 
 ## Speaking
